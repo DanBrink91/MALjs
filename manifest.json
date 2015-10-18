@@ -15,6 +15,6 @@
     "storage",
     "contextMenus",
     "tabs",
-    "http://*.myanimelist.net/*"
+    "http://myanimelist.net/*"
   ]
 }
